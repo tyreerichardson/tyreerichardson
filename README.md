@@ -1,89 +1,62 @@
-# 🪐 Tyree Richardson  
-> Professional button-presser, occasional coder, full-time imposter.
-
-Welcome to the source of bugs, mysterious commits, and occasional moments of accidental genius. If you’re here to judge my code — joke’s on you, I already beat you to it.
+# 🌟 Tyree Richardson  
+> Aspiring Software Engineer | Lifelong Learner | Builder of Ideas
 
 ---
 
-## 🙃 Who Am I?
+## 👋 About Me  
 
-I’m a *"software engineer"* in the same way someone who owns a guitar is in a band. I write code, yell at it, then run it with fingers crossed. Sometimes it works. Sometimes it *really* doesn’t.
+I’m Tyree Richardson, a developer passionate about **growth, innovation, and collaboration**. My journey in tech has been fueled by curiosity — from building projects that push the boundaries of what I know, to exploring how technology can create meaningful impact.  
 
-Things I’m *allegedly* good at:
-- Making programs that simulate gravity but somehow break reality
-- Convincing generative AI to say weird stuff
-- Copy-pasting with flair
-- Typing fast enough to look impressive in coffee shops
-- Following SOLID principles like a *true* professional (or at least pretending to)
+I believe in continuous learning, building with intention, and creating opportunities for others to learn and collaborate along the way.  
 
 ---
 
-## ⚒️ The Toolbelt of Dubious Expertise
+## 🚀 Skills & Areas of Focus  
 
-| Skill      | Proficiency | Commentary |
-|------------|-------------|------------|
-| ☕ Java     | ★★★★☆      | Verbose? Sure. Do I know what a JVM is? Maybe. |
-| 🧱 C#       | ★★★★☆      | Powered by Windows and vibes. |
-| 💣 C++      | ★★☆☆☆      | Used when I’m feeling dangerous. |
-| 💻 JS       | ★★★☆☆      | Equal parts power and regret. |
-| 🧠 ML       | ★★☆☆☆      | I make AI guess things. Sometimes it’s right. That’s on me. |
-| 🤖 Gen AI   | ★★☆☆☆      | I once trained a model. It learned bad habits from me. |
-| 🐙 Git      | ★★☆☆☆      | “commit -am ‘final final FINAL fix’” — Me |
-| 🛜 APIs      | ★★★☆☆      | Fluent in JSON. Not emotionally, just technically. |
-| 🧱 Angular  | ★★☆☆☆      | Two-way binding. One-way understanding. |
-| ⚙️ VS Code | ★★★★★      | The only thing I trust more than myself. |
-| ☁️ The Cloud™ | ★☆☆☆☆   | I clicked ‘Deploy’ and something happened. |
-| 🧪 Testing  | ☆☆☆☆☆      | I test in production like a thrill-seeker. |
+- **Programming Languages**: Java ★★★★☆ | C# ★★★★☆ | C++ ★★☆☆☆ | JavaScript ★★★☆☆  
+- **Frameworks & Tools**: Angular ★★★★☆ | Git ★★★★☆ | APIs ★★★★☆ | VS Code ★★★★★  
+- **Core Principles**: SOLID, clean code practices, and scalable design  
+- **Emerging Interests**: Machine Learning, Generative AI, and cloud-native applications  
 
 ---
 
-## 🚧 Projects That Keep Me Up at Night
+## 🛠️ Projects  
 
 - **🌌 Gravity Space Simulator**  
-  Because flinging planets around in fake space is cheaper than therapy.
+  Exploring physics, simulation, and system design through interactive space mechanics.  
 
-- **🧠 AI... Something**  
-  I forgot what it does, but it has a cool name and uses a GPU.
+- **🧠 AI-Focused Experiments**  
+  Prototyping AI-powered tools and testing the boundaries of generative models.  
 
-- **🕹️ Potential MMORPG Clone (Top Secret)**  
-  NDA signed with myself. Features include: bugs, lag, and way too much ambition.
+- **🕹️ Potential MMORPG Clone (R&D)**  
+  A long-term challenge project to understand large-scale systems and multiplayer architecture.  
 
----
-
-## 🎯 Career Goals That Sound Impressive
-
-- Work at **Discord** or **NVIDIA**, and pretend to understand everything in the first few months.
-- Start a billion-dollar company with four lines of code and a README.
-- Master Kubernetes. Or at least learn how to spell it consistently.
-- **Create a Non-Profit Coffee-Shop/Study Bar**  
-  Called **The Hive**, a place where STEM enthusiasts can learn, collaborate, and potentially break things. Shaped like a bee hive because... why not? Plus, it’ll have an online presence to keep things ‘trendy’ and slightly more organized than my personal GitHub.
+- **🔌 C++ WebSocket Server**  
+  Built with Boost and CMake, this project focuses on real-time communication and backend infrastructure.  
+  Designed to be cross-platform with automated builds via **GitHub Actions** (Windows, Linux, and macOS).  
 
 ---
 
-## 📈 Look! Numbers!
+## 🎯 Goals  
 
-![Totally Real Stats](https://github-readme-stats.vercel.app/api?username=tyreerichardson&show_icons=true&theme=tokyonight)
-
-They don’t mean anything. But they’re shiny and make me feel accomplished.
-
----
-
-## 🧃 Other Fun Facts
-
-- My code editor has seen things.
-- I once fixed a bug by deleting half the project. It worked. Still scared.
-- I learned everything I know from YouTube and mild panic.
-- My coding style is “if it runs, it ships.”
+- **Career Growth**: Develop my skills as a software engineer and contribute to innovative teams at companies like **Discord** or **NVIDIA**.  
+- **Innovation**: Create software that bridges the gap between complex systems and everyday use.  
+- **Community Impact**:  
+  Build **The Hive** — a non-profit coffee-shop/study bar designed for STEM collaboration, shaped like a bee hive. The Hive will also have an online presence to empower people to learn, innovate, and work together globally.  
 
 ---
 
-## 📫 You Found Me, Now What?
+## 📊 GitHub Stats  
 
-Want to collab? Roast my code? Send memes? I’m down.
-
-- [LinkedIn](https://www.linkedin.com/in/tyree-richardson-5b564118a/) – I act employed here.
-- [Portfolio](https://tyreerichardson.github.io/) – Viewer discretion advised.
+![Tyree’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyreerichardson&show_icons=true&theme=tokyonight)
 
 ---
 
-> _"This isn’t a bug, it’s a feature."_ – Me, every single day
+## 🌐 Connect With Me  
+
+- [LinkedIn](https://www.linkedin.com/in/tyree-richardson-5b564118a/)  
+- [Portfolio](https://tyreerichardson.github.io/)  
+
+---
+
+> _“Innovation happens at the intersection of curiosity, discipline, and community.”_  
